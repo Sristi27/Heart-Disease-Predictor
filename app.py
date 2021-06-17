@@ -32,9 +32,9 @@ def predict():
     return jsonify(msg="Succesfully fetched",value=value)
     
 
-#@app.route('/',methods=['GET'])
-#def home():
-#    return jsonify(msg="Detection API working perfectly!")
+@app.route('/',methods=['GET'])
+def home():
+   return jsonify(msg="Detection API working perfectly!")
     
 if __name__=='main':
     app.run(debug=True)
