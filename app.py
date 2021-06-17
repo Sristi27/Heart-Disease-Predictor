@@ -7,7 +7,7 @@ app=Flask(__name__)
 heart_model = pickle.load(open('heart_model.pkl','rb'))
 CORS(app)
 
-@app.route('/',methods=['POST'])
+@app.route('/predict',methods=['POST'])
 def predict():
     
     features=[]
