@@ -20,9 +20,9 @@ def predict():
     features.append(float(request.form['restecg']))
     features.append(float(request.form['thalach']))
     features.append(float(request.form['exang']))
-    features.append(float(request.form['oldpeak']))
-    features.append(float(request.form['slope']))
-    features.append(float(request.form['ca']))
+    #features.append(float(request.form['oldpeak']))
+    #features.append(float(request.form['slope']))
+    #features.append(float(request.form['ca']))
     features.append(float(request.form['thal']))
     #l=[63,1,3,145,233,1,0,150,0,2.3,0,0,1]
     #l=[float(x) for x in l]
