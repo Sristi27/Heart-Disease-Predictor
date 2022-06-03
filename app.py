@@ -4,7 +4,7 @@ from flask import Flask,request,jsonify,render_template
 from flask_cors import CORS
 
 app=Flask(__name__)
-heart_model = pickle.load(open('heart_model.pkl','rb'))
+heart_model = pickle.load(open('heart_pred_model.pkl','rb'))
 CORS(app)
 
 @app.route('/predict',methods=['POST'])
