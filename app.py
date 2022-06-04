@@ -27,7 +27,7 @@ def predict():
     output=heart_model.predict([np.array(features)])
     if(output[0]==1): value= "Yes"
     else: value= "No"
-    return jsonify(msg="Succesfully fetched",value=value)
+    return jsonify(msg="Succesfully fetched",value=value, formValues=request.form)
     
 
 @app.route('/',methods=['GET'])
