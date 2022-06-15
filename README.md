@@ -3,7 +3,7 @@
 
 ## Check out our application here <a href="https://heart-seva.herokuapp.com/">Demo</a>
 
-![Screenshot 2021-06-20 at 12 40 01 AM](https://user-images.githubusercontent.com/53037053/122653240-0290a980-d161-11eb-9c78-af4b72ad23cc.png)
+![Screenshot 2022-06-15 at 1 04 37 PM](https://user-images.githubusercontent.com/53037053/173769802-e4a20188-1fda-4147-9adf-afd496bd2cfd.png)
 
 
 ## Objective ~ 
