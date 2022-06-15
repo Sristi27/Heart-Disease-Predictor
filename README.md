@@ -15,7 +15,7 @@ conditions of users who enter their details in our CheckUp form.Really helpful f
 This repository contains the Machine learning model and the flask api that we are using to predict an output with a dynamic set of data. Use our model api to send in values and receive an output.
 
 
-## Frontend - <a href="https://github.com/Sristi27/Heart-disease-pred-fe-v2">Link</a>
+## Frontend Repository - <a href="https://github.com/Sristi27/Heart-disease-pred-fe-v2">Link</a>
 
 ## Node Backend - <a href="https://github.com/Sristi27/Heart-disease-predictor-bknd">Link</a>
 
