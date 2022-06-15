@@ -15,7 +15,7 @@ conditions of users who enter their details in our CheckUp form.Really helpful f
 
 ## Frontend - <a href="https://github.com/Sristi27/Disease-Predictor-Frontend">Link</a>
 
-## Dataset - <a href="https://www.kaggle.com/ronitf/heart-disease-uci">Link</a>
+## Dataset - <a href="https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset">Link</a>
 
 
 
