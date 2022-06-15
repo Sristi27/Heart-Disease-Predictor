@@ -1,4 +1,4 @@
-# HEART Seva ~
+# Heart Seva ~
 
 
 ## Check out our application here <a href="https://heart-seva.herokuapp.com/">Demo</a>
@@ -12,8 +12,12 @@ This is an application built for aged humans or anyone who is facing any sort of
 this platform to test your chances of having a heart disease or a blockage.I have used Machine Learning Algorithm to predict the heart 
 conditions of users who enter their details in our CheckUp form.Really helpful for elders who find it difficult to step out of their houses , more in these scary time of the pandemic.Heart Seva tries to predict based on a huge Kaggle Dataset and yields accurate results.
 
+This repository contains the Machine learning model and the flask api that we are using to predict an output with a dynamic set of data. Use our model api to send in values and receive an output.
 
-## Frontend - <a href="https://github.com/Sristi27/Disease-Predictor-Frontend">Link</a>
+
+## Frontend - <a href="https://github.com/Sristi27/Heart-disease-pred-fe-v2">Link</a>
+
+## Node Backend - <a href="https://github.com/Sristi27/Heart-disease-predictor-bknd">Link</a>
 
 ## Dataset - <a href="https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset">Link</a>
 
