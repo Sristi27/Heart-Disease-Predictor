@@ -1,7 +1,7 @@
 # HEART Seva ~
 
 
-## Check out our application here <a href="https://predictor-frontend.herokuapp.com/">Demo</a>
+## Check out our application here <a href="https://heart-seva.herokuapp.com/">Demo</a>
 
 ![Screenshot 2021-06-20 at 12 40 01 AM](https://user-images.githubusercontent.com/53037053/122653240-0290a980-d161-11eb-9c78-af4b72ad23cc.png)
 
